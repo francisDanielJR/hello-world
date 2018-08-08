@@ -1,2 +1,5 @@
 # hello-world
-starting repo
+
+Hi Humans,
+
+We are here to test this sexy thing
